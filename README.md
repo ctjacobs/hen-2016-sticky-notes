@@ -1,6 +1,6 @@
 # Overview
 
-Slides for the talk entitled "More technology is not always the answer – the power of sticky notes", given at the Geological Society of London Higher Education Network Annual Meeting 2016. Slide files available from the `gh-pages` branch of this repository. The slides are also available to [view online](http://christianjacobs.uk/hen-2016-sticky-notes/).
+Slides for the talk entitled "More technology is not always the answer – the power of sticky notes", given at the [Geological Society of London Higher Education Network](https://www.geolsoc.org.uk/hen) Annual Meeting 2016. Slide files available from the `gh-pages` branch of this repository. The slides are also available to [view online](http://christianjacobs.uk/hen-2016-sticky-notes/).
 
 # Abstract
 
