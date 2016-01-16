@@ -1,0 +1,7 @@
+# Overview
+
+Slides for the talk entitled "More technology is not always the answer – the power of sticky notes", given at the Geological Society of London Higher Education Network Annual Meeting 2016.
+
+# Abstract
+
+Over the last 5 years we have developed an introductory-level programming course for first year geoscience undergraduates. This course is taught in a computer lab to a class of 80-90 students, using a blended learning methodology --- mixing short lectures with in-class exercises to develop the students' understanding. One of the most powerful tools we found for improving the course and boosting student engagement was the simple, but versatile, sticky note. We get students to post a green sticky on top of their computer's monitor when they complete a particular exercise --- thereby giving a clear visual indicator of progress. Red sticky notes are posted by the student if they require assistance. This visual cue alerts the lecturer, allowing students to continue their work without needing to keep their hand raised until the lecturer is free. At the end of every lecture, students are encouraged to write anonymously at least one positive and negative comment on the green and red notes, respectively, and hand them in. This allowed us to quickly identify what works and address any problems arising. The quality of feedback, and the pass rate, has significantly increased since we started this technique. 
